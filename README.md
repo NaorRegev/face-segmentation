@@ -33,7 +33,11 @@ You can also do anything you want with the 'result' image.
 
 example:
 capture images from a video:
-https://user-images.githubusercontent.com/71181322/102065532-56f94c00-3e01-11eb-9098-3fb48b2343db.jpg
-https://user-images.githubusercontent.com/71181322/102065537-582a7900-3e01-11eb-8499-a78786457d59.jpg
+![15](https://user-images.githubusercontent.com/71181322/102065532-56f94c00-3e01-11eb-9098-3fb48b2343db.jpg)
+![0](https://user-images.githubusercontent.com/71181322/102065537-582a7900-3e01-11eb-8499-a78786457d59.jpg)
+
+The results:
+![15](https://user-images.githubusercontent.com/71181322/102065552-5fea1d80-3e01-11eb-9822-a59a25bd2539.jpg)
+![0](https://user-images.githubusercontent.com/71181322/102065554-611b4a80-3e01-11eb-8ab4-adf36bac3d44.jpg)
 
 
