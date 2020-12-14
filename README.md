@@ -1,6 +1,8 @@
 # face-segmentation
 Face segmentation using Mask_RCNN model
 
+The final result is images of a person, without any background. Only the person itself with a white background. These images are great for machine learning models. 
+
 The segmentation work in few steps:
 1. Make a folder called "capture", a folder called "video", and a folder called "result". 
 2. If you want to make images from a video - download the video to the "video" folder, and run the capture_images python file.
