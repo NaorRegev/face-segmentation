@@ -29,4 +29,7 @@ This python file is the main run for the face segmentation.
 I use these codes to save the images after the segmentation and remove the background.
 You can also do anything you want with the 'result' image.
 
+You can see the process in the capture folder and then the results in the result folder.
+
+
 
